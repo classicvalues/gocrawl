@@ -8,5 +8,5 @@ require (
 	github.com/PuerkitoBio/urlesc v0.0.0-20170810143723-de5bf2ad4578 // indirect
 	github.com/andybalholm/cascadia v1.2.0
 	github.com/temoto/robotstxt v1.1.2
-	golang.org/x/net v0.0.0-20210510120150-4163338589ed
+	golang.org/x/net v0.7.0
 )
